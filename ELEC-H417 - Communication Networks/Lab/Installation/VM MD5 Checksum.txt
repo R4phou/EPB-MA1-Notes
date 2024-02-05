@@ -1,0 +1,32 @@
+MD5 (ELECH417.ova) = 9e31121c6717233b5a000fbb851decd5
+
+
+[How to produce the MD5]
+
+- On Windows: certutil -hashfile ELECH417.ova MD5
+
+	- Open your terminal ("CMD" in your search bar)
+	- Go where you .ova file is (e.g. use the command "cd C:\Users\...")
+	- Write this command (without quotes): "certutil -hashfile ELECH417.ova MD5"
+	- Wait 2-3 minutes (since the file is heavy ~5 GB)
+	- Compare with your result (tips: you juste need to check the 2-3 first and last digits since the result should be really different if the file is wrong).
+
+- On Mac (to verify): md5 -r ELECH417.ova
+
+	- Open your terminal
+	- Go where you .ova file is (e.g. use the command with the "cd" command)
+	- Write this command (without quotes): "md5 -r ELECH417.ova"
+	- Wait 2-3 minutes (since the file is heavy ~5 GB)
+	- Compare with your result (tips: you juste need to check the 2-3 first and last digits since the result should be really different if the file is wrong).
+
+
+[Explanations]
+
+A file checksum is a process which consists of passing a file through a hash function in order to obtain its "fingerprint".
+
+A hash function (such as MD5, SHA, ...) is a uni-directional function ("impossible" to find the input knowing the output) 
+which deterministically produces an output which changes completely with the slightest changes in the input. 
+
+It is not uncommon for large file transfer to be corrupted (e.g. bit-flip). Therefore we provide the hash of the file to allow 
+those who download it to verify its integrity (verify that the file has not been modified/corrupted during transfer).
+

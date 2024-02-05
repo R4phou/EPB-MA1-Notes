@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "032ebd21b22ee392",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc72d1625f18ca5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0747b1503c7df3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/2. Concurrent and sequential statements/2.4 Assignments and simulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c867b1aab269d8b1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/ELECH409_Th03.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04881677cc670888",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd4f208d38e6a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3dbd8fc77c34d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6eed24e305be01ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#RTL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c79b1a727ab64924",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/ELECH409_Th05.pdf"
+              }
+            }
+          },
+          {
+            "id": "cde2b5086f2c1af4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "2964efb14c380c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9713067da51dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501bb9a526cfc3c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slides/ELECH409_Th03.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c91d5c62d68e111",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Slides/ELECH409_Th03.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "676098917b9543e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cde39f63128d6eb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Slides/ELECH409_Th03.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c867b1aab269d8b1",
+  "lastOpenFiles": [
+    "Slides/ELECH409_Th02.pdf",
+    "Slides/ELECH409_Th03.pdf",
+    "Slides/ELECH409_Th01.pdf",
+    "Slides/ELECH409_Th05.pdf",
+    "Chapters/5. Analysis of circuit performance/5. Analysis of circuit performance.md",
+    "Slides/ELECH409_Th04.pdf",
+    "Chapters/2. Concurrent and sequential statements/2.4 Assignments and simulation.md",
+    "Chapters/1. Introduction/1.4 Hardware Description Languages (HDLs).md",
+    "Chapters/1. Introduction/1.3 FPGAs.md",
+    "Chapters/1. Introduction/1.2 Logic Circuits.md",
+    "Chapters/5. Analysis of circuit performance/5.2 Practical timing analysis and system performance.md",
+    "Chapters/4. State machines and complex design management/4.4 Resource sharing.md",
+    "Chapters/5. Analysis of circuit performance/5.1 Delays in logic circuits.md",
+    "Chapters/5. Analysis of circuit performance/5.4 Design flow and Performance & Area (PPA) in FPGA.md",
+    "Chapters/5. Analysis of circuit performance/5.5 Physical implementation of FPGA circuits.md",
+    "Chapters/5. Analysis of circuit performance/5.3 Design for performance.md",
+    "Chapters/4. State machines and complex design management/4.3 Typical circuits - adders.md",
+    "Chapters/4. State machines and complex design management/4.2 State machine - practical example.md",
+    "Chapters/4. State machines and complex design management/4.1 State machine - basic concepts.md",
+    "Chapters/4. State machines and complex design management/4. State machines & complex design management.md",
+    "Chapters/3.  Signals, variables, simulation and advanced statements/3.7 Practical examples.md",
+    "Chapters/3.  Signals, variables, simulation and advanced statements/3.6 Generating complex repetitive structures.md",
+    "Chapters/3.  Signals, variables, simulation and advanced statements/3.5 Loops.md",
+    "Chapters/3.  Signals, variables, simulation and advanced statements/3.4 More data types.md",
+    "Chapters/3.  Signals, variables, simulation and advanced statements/3.3 Test-benches.md",
+    "Chapters/3.  Signals, variables, simulation and advanced statements/3.2 Components.md",
+    "Chapters/3.  Signals, variables, simulation and advanced statements/3.1 Signals & variables.md",
+    "Chapters/3.  Signals, variables, simulation and advanced statements/3. Signals, variables, simulation and advanced statements.md",
+    "Chapters/2. Concurrent and sequential statements/2. Concurrent and sequential statements.md",
+    "Chapters/2. Concurrent and sequential statements/2.6 VHDL trickiness example.md",
+    "img/Pasted image 20231228125744.png",
+    "img/Pasted image 20231228125626.png",
+    "img/Pasted image 20231228125559.png",
+    "img/Pasted image 20231228125544.png",
+    "img/Pasted image 20231228125518.png",
+    "img/Pasted image 20231228125421.png",
+    "img/Pasted image 20231228125308.png",
+    "img/Pasted image 20231228125221.png",
+    "img/Pasted image 20231228125207.png",
+    "img/Pasted image 20231228124358.png",
+    "Chapters/5. Analysis of circuit performance",
+    "Projet/ulb-elec-h409-project/LUT/BCD_DECODER.vhd",
+    "Projet/ulb-elec-h409-project/AES_board/BCD_DECODER.vhd",
+    "Projet/ulb-elec-h409-project/AES_board/seven_seg_display.vhd",
+    "Projet/ulb-elec-h409-project/AES_board/AES.vhd"
+  ]
+}

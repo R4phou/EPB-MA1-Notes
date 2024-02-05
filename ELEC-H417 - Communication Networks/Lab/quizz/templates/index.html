@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Open+Sans:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/4dfcd43aac.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../static/css/style.css" />
+    <link rel="stylesheet" href="../static/css/variable.css" />
+    <title>QUIZZZZ</title>
+  </head>
+  <body>
+    <div class="tot-container">
+      <header>
+        <h1>ELEC-H417 Quizz</h1>
+      </header>
+      <div class="container">
+        <div class="intro">
+          <p>
+            Welcome in this super quizz interface! You can try to test your
+            knowledge of the OSI layers levels.
+          </p>
+          <button id="start" onclick="displayStart()">Start the test!</button>
+          <button id="reset" onclick="reset()">Reset the test</button>
+        </div>
+        <div class="question" id="question">
+          <h2>Question</h2>
+          <p>
+            In which layer does
+            <span id="question_value" style="font-weight: 700">QUESTION</span>
+            apply?
+          </p>
+          <div class="btn-container">
+            <button>L1</button>
+            <button>L2</button>
+            <button>L3</button>
+            <button>L4</button>
+            <button>L5</button>
+          </div>
+          <button id="nextQuestion">Next</button>
+        </div>
+        <div class="output" id="result">
+          <h2>Results</h2>
+          <div class="output-text">
+            <p class="result-text" id="result-text">
+              Ici s'affichera le résultat de la requête.
+            </p>
+          </div>
+        </div>
+      </div>
+      <footer>Raphaël Humblet (j'ai trop de temps) 2023-2024</footer>
+    </div>
+
+    <script src="../static/js/script.js"></script>
+  </body>
+</html>

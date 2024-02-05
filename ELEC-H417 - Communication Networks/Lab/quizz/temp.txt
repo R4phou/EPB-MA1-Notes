@@ -1,0 +1,43 @@
+DHCP (dynamic host configuration protocol),L3
+DNS (domain name server),L5
+P2P (peer to peer),L5
+Switches,L2
+Routers,L3
+Server/Client,L5
+MAC,L2
+CSMA,L2
+CSMA/CD,L2
+Channel Partitionning,L2
+VLAN,L2
+Ethernet,L2
+ARP (Address Resolution Protocol),L2
+frame,L2
+routing,L3
+forwarding,L3
+HTTP,L5
+processes,L5
+Cookies,L5
+Web Caches,L5
+UDP (User Datagram Protocol),L4
+TCP (Transmission Conctrol Protocol),L4
+Flow Control (network wide),L4
+Congestion Control,L4
+RDT (Reliable Data Transfer),L4
+AIMD (Additive Increase Multiplicative Decrease),L4
+CUBIC,L4
+Go-back-N,L4
+Selective Repeat,L4
+Multiplexing/Demultiplexing,L4
+HOL (Head Of Line) blocking,L3
+Middleboxes (NAT or Firewall),L3
+SDN (Software Defined structure),L3
+IP tunneling,L3
+AS (Autonomous systems),L3
+DV (distance vector algorithm),L3
+LS (Link state protocol),L3
+OSPF (Open Shortest Path First),L3
+RIP and EIGRP,L3
+Segments,L4
+Message,L5
+Datagram,L3
+Coper-Iron-Aluminium,L1

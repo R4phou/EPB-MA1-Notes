@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "1a27994408902cfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68906e2bd4de221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6257c3dec3b07aca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/Anotated/8.-Concurrency-Control.pdf"
+              }
+            }
+          },
+          {
+            "id": "4676decf9c87dc9e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/Anotated/4.-Cost-Estimation.pdf"
+              }
+            }
+          },
+          {
+            "id": "21f6cab97185e40d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-03 10.45.47.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d6c3ee3576fb62cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/Anotated/2.-Database-System-Architecture.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1c2937b223bf4df",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e80c671880583b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb0439b06cfd195",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a89995c53eb57f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#conflict-equivalent",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d31216e12a2af7d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1868a3c0a60b2aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8020cb1cf6bb4724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df0a249d0118861a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slides/Anotated/8.-Concurrency-Control.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4e551b680f48b52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Slides/Anotated/8.-Concurrency-Control.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04ca9ade741fbe1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea2b1a9114da5b1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Slides/Anotated/8.-Concurrency-Control.pdf"
+              }
+            }
+          },
+          {
+            "id": "09912e489ee75664",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6257c3dec3b07aca",
+  "lastOpenFiles": [
+    "Slides/Anotated/7.-Logging-and-recovery.pdf",
+    "Slides/Anotated/8.-Concurrency-Control.pdf",
+    "Slides/Anotated/9.-Distributed-Databases.pdf",
+    "Chapters/6. Physical query plans.md",
+    "Slides/Anotated/2.-Database-System-Architecture.pdf",
+    "Slides/INFO_H417 2. Query optimisation.pdf",
+    "Slides/Lecture 8 - Concurrency control.pdf",
+    "Slides/Anotated/4.-Cost-Estimation.pdf",
+    "Slides/ExamTopics.pdf",
+    "Examens/Janvier2022-RHumblet.pdf",
+    "Examens/Solution_Q1.pdf",
+    "Chapters/8. Concurrency control.md",
+    "Excalidraw/Drawing 2023-11-03 10.45.47.excalidraw.md",
+    "img/Pasted Image 20240113101842_662.png",
+    "Examens/Examen Janvier 2022.pdf",
+    "Lab/Lab5/demodb-bookings-schema.svg",
+    "Chapters/7. Logging and recovery.md",
+    "Chapters/3. PostgreSQL Extensibility.md",
+    "Chapters/4. Index.md",
+    "Chapters/5. Cost estimation.md",
+    "Chapters/5. Statistics for Cost Estimation.md",
+    "Chapters/2. Query optimisation.md",
+    "Chapters/1. Query execution.md",
+    "img/Pasted image 20231229150817.png",
+    "img/Pasted image 20231229150728.png",
+    "img/Pasted image 20231229150714.png",
+    "INFO-H417 Database System Architectures.md",
+    "img/Pasted image 20231228155413.png",
+    "img/Pasted image 20231228154424.png",
+    "img/Pasted image 20231228153142.png",
+    "img/Pasted image 20231228152326.png",
+    "img/Pasted image 20231228152020.png",
+    "Excalidraw/Drawing 2023-11-28 16.59.31.excalidraw.md",
+    "Pasted.md",
+    "5. Cost estimation.md",
+    "Chapters/9. Distributed Database.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Chapters/0. Introduction.md",
+    "2023-09-21.md",
+    "Excalidraw/Drawing 2023-09-21 10.10.56.excalidraw.md",
+    "ELEC-H409/1. Introduction/1. Introduction to VHDL.md",
+    "ELEC-H409/ELEC-H409 - Digital architectures and design.md",
+    "ELEC-H409/2. Concurrent and sequential statements/2. Concurrent and sequential statements.md",
+    "ELEC-H417/ELEC-H417 - Synthèse.md",
+    "INFO-F405/Introduction/Historical ciphers.md",
+    "Untitled.canvas"
+  ]
+}
